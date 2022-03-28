@@ -13,9 +13,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.Collections;
 import java.beans.XMLEncoder;
-import javax.servlet.ServletContext; // not in JavaSE
-import org.json.JSONObject;
-import org.json.XML;
+//import javax.servlet.ServletContext; // not in JavaSE
+//import org.json.JSONObject;
+//import org.json.XML;
 
 public class Professionals {
     

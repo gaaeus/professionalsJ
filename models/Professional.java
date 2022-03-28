@@ -1,5 +1,13 @@
 package models;
 
+/**
+ * A professional in this system can be a person or a company. 
+ * This is the implementation for the person
+ * 
+ * @author  Hélio Silva
+ * @version 1.0
+ * @since   2022-03-28
+ */
 public class Professional extends ProfessionalEntity implements Comparable<Professional> {
 
     /** Gets or sets the title of the professional. */

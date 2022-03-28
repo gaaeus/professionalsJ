@@ -1,5 +1,12 @@
 package models;
 
+/**
+ * Language(s) used by the professional
+ * 
+ * @author  Hélio Silva
+ * @version 1.0
+ * @since   2022-03-28
+ */
 public class Language extends Base {
 
     /** Gets or sets the tag name */
